@@ -18,20 +18,6 @@ I have been working for a year and I am very friendly and communicative.
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-📊 **this week i spent my time on:**
-
-<!--START_SECTION:waka-->
-
-```txt
-
-
-C#           22 hrs 42 mins   ███████████████████████░░   86.15 %
-JavaScript   22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-MSSQL        12 hrs 10 mins   ██████████████░░░░░░░░░░░   12.30 %
-React        1 hrs 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   01.01 %
-
-
-```
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=93ToXic93&show_icons=true&theme=dark&title_color=ffffff&bg_color=0d1117" alt="Adrian's GitHub Status">
