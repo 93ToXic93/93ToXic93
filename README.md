@@ -34,7 +34,7 @@ React        1 hrs 33 mins    ████░░░░░░░░░░░░�
 ```
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&show_icons=true&theme=dark&title_color=ffffff&bg_color=0d1117" alt="Kristian's GitHub stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=93ToXic93&show_icons=true&theme=dark&title_color=ffffff&bg_color=0d1117" alt="Adrian's GitHub Status">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianAntoanov&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Langs">
