@@ -1,7 +1,7 @@
 <div>
     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="350" height="220"><img/>
     
-  Hi, i'm Adrian, Softuni Student with <img height="25" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> language! Trying to become Full Stack Web Dev!<br/>
+  Hi, i'm Adrian, Softuni Student with <img height="25" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> language! Trying to become Full Stack Web Dev! <br/>
   I have been working for a year and I am very friendly and communicative.<br/>
   - 💼 Any freelance work? do reach, [email](mailto:adrianantoanov@abv.bg) :)<br/>
   - 💬 Ask me about anything, i am happy to help;
