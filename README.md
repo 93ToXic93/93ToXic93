@@ -6,7 +6,7 @@ I have been working for a year and I am very friendly and communicative.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](adrianantoanov@abv.bg) :)
+- 💼 any freelance work? do reach, [email](mailto:adrianantoanov@abv.bg) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
