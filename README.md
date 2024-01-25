@@ -19,6 +19,7 @@ I have been working for a year and I am very friendly and communicative.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 📊 **this week i spent my time on:**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -27,6 +28,18 @@ JavaScript   22 mins          ██░░░░░░░░░░░░░░�
 MSSQL        12 hrs 10 mins   ██████████████░░░░░░░░░░░   12.30 %
 React        1 hrs 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
+
+
+
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&show_icons=true&theme=dark&title_color=ffffff&bg_color=0d1117" alt="Kristian's GitHub stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianAntoanov&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Langs">
+  </a>
+</div>
 
 
 
