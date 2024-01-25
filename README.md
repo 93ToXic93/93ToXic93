@@ -1,11 +1,7 @@
-Hi, i'm Adrian, Softuni Studen with "ToDO - C#" developer!
-
-
+Hi, i'm Adrian, Softuni Studen with "ToDO - C#" developer!<br/>
 I have been working for a year and I am very friendly and communicative.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="350" height="220" />
-<hr/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="350" height="220"><br/><br/><img/>
   
 - 💼 any freelance work? do reach, [email](mailto:adrianantoanov@abv.bg) :)
 - 💬 ask me about anything, i am happy to help;
