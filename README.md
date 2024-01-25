@@ -26,10 +26,10 @@ I have been working for a year and I am very friendly and communicative.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 42 mins   ████████████████████████░   96.15 %
-JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#           22 hrs 42 mins   ███████████████████████░░   86.15 %
+JavaScript   22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+MSSQL        12 hrs 10 mins   ██████████████░░░░░░░░░░░   12.30 %
+React        1 hrs 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 
