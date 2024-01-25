@@ -3,8 +3,8 @@
     
   Hi, i'm Adrian, Softuni Student with <img height="25" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> language! Trying to become Full Stack Web Dev!<br/>
   I have been working for a year and I am very friendly and communicative.<br/>
-  - 💼 any freelance work? do reach, [email](mailto:adrianantoanov@abv.bg) :)<br/>
-  - 💬 ask me about anything, i am happy to help;
+  - 💼 Any freelance work? do reach, [email](mailto:adrianantoanov@abv.bg) :)<br/>
+  - 💬 Ask me about anything, i am happy to help;
 <div>
     
 <br/>
