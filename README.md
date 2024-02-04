@@ -22,10 +22,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=93ToXic93&show_icons=true&theme=dark&title_color=ffffff&bg_color=0d1117" alt="Adrian's GitHub Status">
   </a>
- ![93ToXic93's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=93ToXic93&show_icons=true&theme=gruvbox&layout=compact)
+ 
+![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinKirilov13&show_icons=true&theme=gruvbox&layout=compact)
 <br />
-![93ToXic93's stats](https://github-readme-stats.vercel.app/api?username=93ToXic93&show_icons=true&theme=gruvbox)
-</div>
+![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api?username=ValentinKirilov13&show_icons=true&theme=gruvbox)
 
 
 
