@@ -27,12 +27,12 @@
  <summary><h3>📜 My Certificates</h3></summary>
      
 <code><img  alt="Basic" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/210ad4a8-b1c9-456c-b936-3bc63125f56d" /></code>
-<code><img  alt="Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/d495dd36-f6fb-401d-85d2-df0be24cbd4f" /></code>
 <code><img  alt="Advance" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/4f085b74-1087-471b-a48a-f0fd7dcd9103" /></code>
 <code><img  alt="OOp" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/c389bc01-ec46-44b7-8980-5e5fe56a27c3" /></code>
 <code><img  alt="MSSQL" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/ba7aef84-f29e-40f0-a6ce-1c98571a83ff" /></code>
 <br />
 <code><img  alt="EntityFramework" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/9daff46b-29f7-4413-a05e-2a3ec288c02f" /></code>
+<code><img  alt="Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/d495dd36-f6fb-401d-85d2-df0be24cbd4f" /></code>
 
 </details>
 
