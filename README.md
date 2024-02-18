@@ -27,12 +27,12 @@
  <summary><h3>📜 My Certificates</h3></summary>
      
 <code><img  alt="Basic" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/210ad4a8-b1c9-456c-b936-3bc63125f56d" /></code>
-<code><img  alt="Advanced" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/9ac650e4-d869-4d21-9932-8d75e98e778b" /></code>
-<code><img  alt="OOP" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/636a1c7a-4ae6-4b88-b4aa-fe1b78c75c0d" /></code>
-<code><img  alt="MSSQL" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/c639bf34-6330-468c-8af9-c088abd92576" /></code>
-<code><img  alt="EntityFrameworkCore" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/d7161c55-b718-42c6-a721-e09903a5c8ec" /></code>
+<code><img  alt="Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/d495dd36-f6fb-401d-85d2-df0be24cbd4f" /></code>
+<code><img  alt="Advance" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/4f085b74-1087-471b-a48a-f0fd7dcd9103" /></code>
+<code><img  alt="OOp" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/c389bc01-ec46-44b7-8980-5e5fe56a27c3" /></code>
+<code><img  alt="MSSQL" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/ba7aef84-f29e-40f0-a6ce-1c98571a83ff" /></code>
 <br />
-<code><img  alt="Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/1ab1da0b-3e0c-49c0-b1e2-cc59e95bf32d" /></code>
+<code><img  alt="EntityFramework" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/9daff46b-29f7-4413-a05e-2a3ec288c02f" /></code>
 
 </details>
 
