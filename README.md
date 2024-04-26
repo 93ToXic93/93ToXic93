@@ -32,7 +32,7 @@
 <code><img  alt="MSSQL" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/ba7aef84-f29e-40f0-a6ce-1c98571a83ff" /></code>
 <code><img  alt="EntityFramework" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/9daff46b-29f7-4413-a05e-2a3ec288c02f" /></code> 
 <code><img  alt="Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/ToXic-s-game-/assets/122994130/b9815553-23c5-41fe-8d2a-6f316fc30f53" /></code>
-
+<code><img  alt="Basic" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/93ToXic93/assets/122994130/210ad4a8-b1c9-456c-b936-3bc63125f56d" /></code>
 <code><img  alt="EntityFramework" width="300px" style="padding-right:10px;" src="https://github.com/93ToXic93/ToXic-s-game-/assets/122994130/a889cbe9-de1c-43dd-a22e-b915364a8a1f" /></code> 
 
 </details>
