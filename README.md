@@ -25,6 +25,10 @@
 ![93ToXic93's stats](https://github-readme-stats.vercel.app/api?username=93ToXic93&show_icons=true&theme=dark&title_color=ffffff&bg_color=0d1117)
 ![93ToXic93's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=93ToXic93&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
 
+**My journey**
+<hr/>
+I started learning to code in my first year at the University of Architecture, Construction, and Geodesy. Even though I first studied civil engineering because of what I learned in high school, I became more interested in programming. So, I took some classes in C# web development at the Software University (SoftUni). Now, I'm doing C# developer courses at SoftUni and coding every day. Recently, I started learning about ASP.NET, and I made my very first web application at the beginning of 2024.
+
 <details>
  <summary><h3>📜 My Certificates</h3></summary>
      
